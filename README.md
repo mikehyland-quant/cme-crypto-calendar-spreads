@@ -4,7 +4,7 @@ A systematic relative-value strategy exploiting structural distortions in the cr
 
 This project documents the evolution of a live calendar-spread arbitrage strategy deployed across BTC and ETH futures during 2024–2025.
 
-Full Research Paper (PDF): [Crypto Carry and Term-Structure Arbitrage](./Crypto Carry and Term-Structure Arbitrage.pdf)
+Full Research Paper (PDF): [Crypto Carry and Term-Structure Arbitrage](./Crypto_Carry_and_Term-Structure_Arbitrage.pdf)
 
 ---
 
@@ -141,4 +141,4 @@ Futures-only implementation enabled:
 
 Full research write-up with methodology, statistical tests, and structural discussion:
 
-→ [Download Full PDF](./Crypto Carry and Term-Structure Arbitrage.pdf)
+→ [Download Full PDF](./Crypto_Carry_and_Term-Structure_Arbitrage.pdf)
